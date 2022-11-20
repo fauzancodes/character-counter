@@ -6,4 +6,4 @@ This web-based application is made using [HTML](https://www.w3schools.com/html/d
 
 ## How to Use
 
-Go to https://fauzancodes-character-counter.netlify.apps
+Go to https://fauzancodes-character-counter.netlify.app
